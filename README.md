@@ -17,7 +17,7 @@
 </picture>
 
 <picture>
-<img src="https://raw.githubusercontent.com/harnish7576/harnish7576/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
 
