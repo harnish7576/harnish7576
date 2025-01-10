@@ -17,7 +17,7 @@
 </picture>
 
 <picture>
-<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/harnish7576/harnish7576/blob/output/github-contribution-grid-snake.svg)
 </picture>
 </p>
 
