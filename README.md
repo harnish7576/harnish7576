@@ -16,8 +16,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=harnish7576&show_icons=true&locale=en" alt="harnish7576" />
 </picture>
 
-<picture>
-![Snake animation](https://github.com/harnish7576/harnish7576/blob/output/github-contribution-grid-snake.svg)
-</picture>
-</p>
-
