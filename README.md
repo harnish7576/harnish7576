@@ -11,8 +11,5 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-<picture>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harnish7576&show_icons=true&locale=en" alt="harnish7576" />
-</picture>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=harnish7576&show_icons=true&locale=en" alt="harnish7576" /></p>
 
